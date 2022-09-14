@@ -33,12 +33,12 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |✅|  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
-| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
-| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
+| [Missing Number](https://leetcode.com/problems/missing-number/)  | ✅ |  |
 
 
 ---
@@ -56,8 +56,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  |  |
 | [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
-| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
-| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |✅  |  |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) | ✅ |  |
 
 ---
 <br>
@@ -66,16 +66,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | ✅ |  |
 | [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
-| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
-| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
-| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |✅  |  |
+| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  | ✅ |  |
+| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |✅  |  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
-| [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
+| [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |✅  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | ✅ |  |
+| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |✅  |  |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
 | [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
@@ -90,7 +90,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |  |  |
-| [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
+| [Largest Number ]( https://leetcode.com/problems/largest-number/) |  ✅|  |
 | [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) |  |  |
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
@@ -98,9 +98,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
-| [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
+| [Unique Paths]( https://leetcode.com/problems/unique-paths/) | ✅ |  |
 | [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
-| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
+| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |✅  |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  |  |
 | [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) |  |  |
@@ -113,7 +113,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Partition List](https://leetcode.com/problems/partition-list/) |  |  |
-| [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
+| [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  ✅|  |
 | [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |  |  |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  |
 | [Min Stack](https://leetcode.com/problems/min-stack/) |  |  |
@@ -122,11 +122,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |  |  |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) |  |  |
-| [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |  |
+| [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
 | [Subsets](https://leetcode.com/problems/subsets-ii/) |  |  |
 | [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) |  |  |
-| [Flatten Binary Tree to Linked List]( https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ )  |  |  |
+| [Flatten Binary Tree to Linked List]( https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ )  | ✅ |  |
 | [Gas Station]( https://leetcode.com/problems/gas-station/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
 | [Word ladder]( https://leetcode.com/problems/word-ladder-ii/) |  |  |
