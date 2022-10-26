@@ -96,7 +96,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
+| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |✅|  |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) | ✅ |  |
 | [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
@@ -123,9 +123,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) |  |  |
 | [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ✅ |  |
-| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
+| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |✅  |  |
 | [Subsets](https://leetcode.com/problems/subsets-ii/) |  |  |
-| [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) |  |  |
+| [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) | ✅ |  |
 | [Flatten Binary Tree to Linked List]( https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ )  | ✅ |  |
 | [Gas Station]( https://leetcode.com/problems/gas-station/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
