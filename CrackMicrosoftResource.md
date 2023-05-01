@@ -37,7 +37,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  | ✅ |  |
-| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
+| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | ✅|  |
 | [Missing Number](https://leetcode.com/problems/missing-number/)  | ✅ |  |
 
 
@@ -55,7 +55,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) | ✅ |  |
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  | ✅ |  |
-| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
+| [Majority Element]( https://leetcode.com/problems/majority-element/)  | ✅ |  |
 | [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |✅  |  |
 | [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) | ✅ |  |
 
